@@ -1,8 +1,10 @@
-### Tharla
+Olá,
+sejam bem-vindos, 
+Me chamo Tharla sou estudante de desenvolvimento web, sou aluna na Laboratória e fique á vontade para conhecer o meu portifólio,
+Sou curiosa, gosto de andar de Patins e assistir Anime nas horas vagas.
 
 <!--
 **Tjaroxeski/Tjaroxeski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub prof
-Sou estudante de desenvolvimento web na Laboratoria  
 - 🌱 Estudando: JavaScript, HTML5, CSS, Figma, Firebase 
 
 <div>
